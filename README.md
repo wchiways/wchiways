@@ -1,4 +1,4 @@
-# 👋 Hi, I'm blankzsh
+# 👋 Hi, I'm Chiway Wang
 
 **Developer** passionate about building and exploring technology.
 
